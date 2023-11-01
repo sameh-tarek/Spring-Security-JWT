@@ -7,7 +7,9 @@ How to secure your Spring Boot REST APIs with JSON Web Tokens
 
 2- Import the project into your favorite Java IDE (e.g., IntelliJ, Eclipse, etc.).
 
-3- create public key and private key 
+3- create public key and private key in a new folder under /src/main/rescurces/certs 
+
+run this commands in terminal
 ```code
 # create rsa key pair
 openssl genrsa -out keypair.pem 2048
