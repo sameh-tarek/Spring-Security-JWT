@@ -2,7 +2,9 @@
 How to secure your Spring Boot REST APIs with JSON Web Tokens
 
 # How to Run
+
 1- Clone the project repository from Git (if it's not already cloned).
+
 2- Import the project into your favorite Java IDE (e.g., IntelliJ, Eclipse, etc.).
 
 3- create public key and private key 
